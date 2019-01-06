@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/var/www/html/GameOfThrones/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/var/www/html/GameOfThrones/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/var/www/html/GameOfThrones/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/var/www/html/GameOfThrones/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/var/www/html/GameOfThrones/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/root/.android/build-cache/f61f71644a4de1060a89d77effd8514ee962b9aa/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/root/.android/build-cache/26b2ff5ae927a855ce45b7be6d07999bfeb9b130/output/res/xml/preferences.xml"
+    }
+]

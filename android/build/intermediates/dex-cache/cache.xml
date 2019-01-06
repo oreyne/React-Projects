@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_8be49a01fe7b73f1df03bf8993811cc366a66b6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_2f760503ec65a58feaa77c481e2edfbc5c9fb562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_9acd00f8684b999f23bc1219658cc93a0b271f3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_07a9a16f15c02e680a32feb60a7bca4d722a29a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/bfbd68393a852816492c7d0c6905e78d1b54b31d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_6963bb85642cef9e11ce2b4095436946f66f69c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d7f63fab472fe4a1acb6219348aafb4eb5f17c4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_b6580c0bec2300534deb880349a8236b681f760e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_456beae1bfbef6196546d4c957b5e9b726c256ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/365e82bdf05b3c30bf43030128d806f5c3a7ddd2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_16f76c47c78dff10c6d01dcd188e943fd506b198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/624753889a9c27ebdc56ae70d232c39336de9f5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_73fdb1b981c3058d6ed0bb09a05bf772b2d78a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/00925d4f1fbd0c71ab4eb586553e8d8efeb52a53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_cf75fe50f5e67c38eec216b20b2d43941a6b30b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/2a73082ff7e9e95e6b7a0cda0dc8d3570b2ef3f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_251ba4c33f0ae91e61a96bb7457cb9e36497f61c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_068880228b7529ca8548d005e0772999a5ba9d7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7e84a58f14b03e539c66973b1348dfcc92b37959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/26b2ff5ae927a855ce45b7be6d07999bfeb9b130/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="852750162fda1e0c8985d903d070a0335cf73e4d">
+        <dex dex="/var/www/html/React-Projects/android/app/build/intermediates/pre-dexed/debug/classes_d4fb1ad28d935d07581443b59ef992cf633e49b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_c2a404c42de000da3f3c0fe0f579380db66e3efd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/97651fd050b7065123acf166018e057ac8333ff8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_e5f5b55840ab6e78864cbd52517f982a2a3dffcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/c23074f9cc87eb05e799d4b9b8dc5552cec58e61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_d7ccec243543c5379150d44a9230dffb471c560a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_93fa78f27393294126ac1a87b7cef32adcf4140b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b3ccc2babea9a884ceb74ff86b197240a1d61adc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/79cd5993f45457979dca707fa34cf97a28a62a58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_765d91e92e3b653f3b8c2ef4ef10018b3a07315d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/735e0c89ea420c66826c0de46cd5e2d299052e40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_3140157edfac91a90de9498eafc88ee8050d0c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_150c6a3272689db4c05ada00f27f1b9dd0276e2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/378e997026740d991294e5228c0524a46a40dd9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_4c264050c0c76ae9a2f814b92a7487c904552435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/e00ed6168bf8feb2be166abf4084d55585f975d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_c1f3f4f1d7f16d91546cef8343b121727543bcea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/557652688d1d3345bf928d7df459f8b66aa359db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_d346c2f65ce0eb2426d1dd1a9b959bc6982a76e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f8452f690e589e1efee81cdc87be2bba8ea60fda/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_53188b41a0d81ad7bbf859bf6753879f487b1cb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/26b2ff5ae927a855ce45b7be6d07999bfeb9b130/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/var/www/html/React-Projects/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_a7b667fe4c491bece40be86d9893366de6fc95f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/66179f13acea77c9ecdfbb2296d2fbb6afd4c4ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_ccf33de836214b581eefcb68627e536a748b8219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d2a7a98aad9af9512e507f865a3e03f0e286f287/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_d50e1ef55f9f0c89358fc109dd65adccc44d3ffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f61f71644a4de1060a89d77effd8514ee962b9aa/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_7b5b983bfe3d5576904c826015d6750524b5d793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8cb1dcf68d89b3835f6b8620276bad0ce2e75a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f61f71644a4de1060a89d77effd8514ee962b9aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="852750162fda1e0c8985d903d070a0335cf73e4d">
+        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_2504a38940f05136d6094f19e332238d5931b8d8.jar" />
+    </item>
+
+</items>

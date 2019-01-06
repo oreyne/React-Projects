@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/var/www/html/GameOfThrones/android/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout-v26/abc_screen_toolbar.xml"
+    }
+]

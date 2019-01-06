@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.soloader:soloader-0.3.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/f8452f690e589e1efee81cdc87be2bba8ea60fda/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/f8452f690e589e1efee81cdc87be2bba8ea60fda/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
