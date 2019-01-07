@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "outputFile": "/var/www/html/React-Projects/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\values-port\\values-port.xml",
+                    "file": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

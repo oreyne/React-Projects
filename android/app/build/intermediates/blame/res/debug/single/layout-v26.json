@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout-v26\\abc_screen_toolbar.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26\\abc_screen_toolbar.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout-v26\\abc_screen_toolbar.xml"
     }
 ]

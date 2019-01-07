@@ -1,206 +1,410 @@
 [
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_template_big_media_custom.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\tooltip.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/root/.android/build-cache/97651fd050b7065123acf166018e057ac8333ff8/output/res/layout/notification_template_lines_media.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\\output\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
+        "source": "/root/.android/build-cache/4f748ae021c9b886d5281dfc507c303817dafa64/output/res/layout/redbox_item_frame.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\\output\\res\\layout\\notification_action.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_frame.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\f6c4d486f9113ac84006df15ec6df37cb5b28266\\output\\res\\layout\\redbox_item_frame.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_frame.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\f6c4d486f9113ac84006df15ec6df37cb5b28266\\output\\res\\layout\\redbox_item_frame.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\\output\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_template_big_media.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fps_view.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\f6c4d486f9113ac84006df15ec6df37cb5b28266\\output\\res\\layout\\fps_view.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fps_view.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\f6c4d486f9113ac84006df15ec6df37cb5b28266\\output\\res\\layout\\fps_view.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_media_action.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_template_media.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\\output\\res\\layout\\notification_template_part_time.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dev_loading_view.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\f6c4d486f9113ac84006df15ec6df37cb5b28266\\output\\res\\layout\\dev_loading_view.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\\output\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/root/.android/build-cache/97651fd050b7065123acf166018e057ac8333ff8/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_title.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\f6c4d486f9113ac84006df15ec6df37cb5b28266\\output\\res\\layout\\redbox_item_title.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_title.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\f6c4d486f9113ac84006df15ec6df37cb5b28266\\output\\res\\layout\\redbox_item_title.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_view.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\f6c4d486f9113ac84006df15ec6df37cb5b28266\\output\\res\\layout\\redbox_view.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/root/.android/build-cache/97651fd050b7065123acf166018e057ac8333ff8/output/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/root/.android/build-cache/97651fd050b7065123acf166018e057ac8333ff8/output/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\\output\\res\\layout\\notification_action_tombstone.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_template_lines_media.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/res/layout/notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
+        "source": "/root/.android/build-cache/4f748ae021c9b886d5281dfc507c303817dafa64/output/res/layout/redbox_item_title.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
+        "source": "/root/.android/build-cache/4f748ae021c9b886d5281dfc507c303817dafa64/output/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/root/.android/build-cache/97651fd050b7065123acf166018e057ac8333ff8/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/root/.android/build-cache/97651fd050b7065123acf166018e057ac8333ff8/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dev_loading_view.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\f6c4d486f9113ac84006df15ec6df37cb5b28266\\output\\res\\layout\\dev_loading_view.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
+        "source": "/root/.android/build-cache/4f748ae021c9b886d5281dfc507c303817dafa64/output/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_view.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\f6c4d486f9113ac84006df15ec6df37cb5b28266\\output\\res\\layout\\redbox_view.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/tooltip.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/root/.android/build-cache/97651fd050b7065123acf166018e057ac8333ff8/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/root/.android/build-cache/97651fd050b7065123acf166018e057ac8333ff8/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
+        "source": "/root/.android/build-cache/4f748ae021c9b886d5281dfc507c303817dafa64/output/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/root/.android/build-cache/97651fd050b7065123acf166018e057ac8333ff8/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\layout\\abc_alert_dialog_material.xml"
     }
 ]

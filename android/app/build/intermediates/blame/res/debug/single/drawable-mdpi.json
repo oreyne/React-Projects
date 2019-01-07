@@ -1,10 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\node_modules_reactnavigationstack_dist_views_assets_backicon.png",
-        "source": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigationstack_dist_views_assets_backicon.png"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/drawable-mdpi/node_modules_reactnavigationstack_dist_views_assets_backiconmask.png",
+        "source": "/var/www/html/React-Projects/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_dist_views_assets_backiconmask.png"
     },
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\node_modules_reactnavigationstack_dist_views_assets_backiconmask.png",
-        "source": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigationstack_dist_views_assets_backiconmask.png"
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/drawable-mdpi/node_modules_reactnavigationstack_dist_views_assets_backicon.png",
+        "source": "/var/www/html/React-Projects/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_dist_views_assets_backicon.png"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\node_modules_reactnavigationstack_dist_views_assets_backicon.png",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigationstack_dist_views_assets_backicon.png"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\node_modules_reactnavigationstack_dist_views_assets_backiconmask.png",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigationstack_dist_views_assets_backiconmask.png"
     }
 ]

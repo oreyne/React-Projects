@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/res/layout-v16/notification_template_custom_big.xml"
     }
 ]

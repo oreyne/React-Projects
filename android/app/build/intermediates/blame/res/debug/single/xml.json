@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
-        "source": "C:\\Users\\chros\\.android\\build-cache\\f6c4d486f9113ac84006df15ec6df37cb5b28266\\output\\res\\xml\\preferences.xml"
+        "merged": "/var/www/html/React-Projects/android/C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "/var/www/html/React-Projects/android/C:\\Users\\chros\\.android\\build-cache\\f6c4d486f9113ac84006df15ec6df37cb5b28266\\output\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/root/.android/build-cache/4f748ae021c9b886d5281dfc507c303817dafa64/output/res/xml/preferences.xml"
     }
 ]
