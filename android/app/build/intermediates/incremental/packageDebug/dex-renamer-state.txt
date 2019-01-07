@@ -1,4 +1,4 @@
-#Sun Jan 06 11:07:03 CST 2019
-base.0=/var/www/html/React-Projects/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Mon Jan 07 10:18:13 EST 2019
+base.0=C\:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=/var/www/html/React-Projects/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=C\:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

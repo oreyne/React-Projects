@@ -1,18 +1,10 @@
 [
     {
-        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "/var/www/html/GameOfThrones/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/var/www/html/GameOfThrones/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

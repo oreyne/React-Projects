@@ -3,291 +3,273 @@
 
     <item
         is-multidex="false"
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="102d7be47241d781ef95f1581d414b0943053130">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_8be49a01fe7b73f1df03bf8993811cc366a66b6c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/jars/classes.jar"
+        jar="C:\Users\chros\.android\build-cache\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_2f760503ec65a58feaa77c481e2edfbc5c9fb562.jar" />
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_b1cc57bd3d80e8f4b539c46b4bdfc6c87e586170.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/root/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jar="C:\Users\chros\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_9acd00f8684b999f23bc1219658cc93a0b271f3d.jar" />
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_4f2aee8b196e9be34234ca6492486752a313c4c9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="ec614c05825ddd2267677a99f585d3913474b125">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_07a9a16f15c02e680a32feb60a7bca4d722a29a7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/bfbd68393a852816492c7d0c6905e78d1b54b31d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_6963bb85642cef9e11ce2b4095436946f66f69c4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/d7f63fab472fe4a1acb6219348aafb4eb5f17c4e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_b6580c0bec2300534deb880349a8236b681f760e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_456beae1bfbef6196546d4c957b5e9b726c256ac.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/365e82bdf05b3c30bf43030128d806f5c3a7ddd2/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_16f76c47c78dff10c6d01dcd188e943fd506b198.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/624753889a9c27ebdc56ae70d232c39336de9f5f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_73fdb1b981c3058d6ed0bb09a05bf772b2d78a73.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/00925d4f1fbd0c71ab4eb586553e8d8efeb52a53/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_cf75fe50f5e67c38eec216b20b2d43941a6b30b8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/2a73082ff7e9e95e6b7a0cda0dc8d3570b2ef3f6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_251ba4c33f0ae91e61a96bb7457cb9e36497f61c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_068880228b7529ca8548d005e0772999a5ba9d7c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7e84a58f14b03e539c66973b1348dfcc92b37959.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/26b2ff5ae927a855ce45b7be6d07999bfeb9b130/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="852750162fda1e0c8985d903d070a0335cf73e4d">
-        <dex dex="/var/www/html/React-Projects/android/app/build/intermediates/pre-dexed/debug/classes_d4fb1ad28d935d07581443b59ef992cf633e49b4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_c2a404c42de000da3f3c0fe0f579380db66e3efd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/97651fd050b7065123acf166018e057ac8333ff8/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_e5f5b55840ab6e78864cbd52517f982a2a3dffcf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/c23074f9cc87eb05e799d4b9b8dc5552cec58e61/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_d7ccec243543c5379150d44a9230dffb471c560a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_93fa78f27393294126ac1a87b7cef32adcf4140b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b3ccc2babea9a884ceb74ff86b197240a1d61adc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/79cd5993f45457979dca707fa34cf97a28a62a58/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_765d91e92e3b653f3b8c2ef4ef10018b3a07315d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/735e0c89ea420c66826c0de46cd5e2d299052e40/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_3140157edfac91a90de9498eafc88ee8050d0c37.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_150c6a3272689db4c05ada00f27f1b9dd0276e2b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/378e997026740d991294e5228c0524a46a40dd9f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="508f50705b4fde51a16259f29c854201a3044516">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_4c264050c0c76ae9a2f814b92a7487c904552435.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/e00ed6168bf8feb2be166abf4084d55585f975d1/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_c1f3f4f1d7f16d91546cef8343b121727543bcea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/557652688d1d3345bf928d7df459f8b66aa359db/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_d346c2f65ce0eb2426d1dd1a9b959bc6982a76e7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/f8452f690e589e1efee81cdc87be2bba8ea60fda/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_53188b41a0d81ad7bbf859bf6753879f487b1cb0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/26b2ff5ae927a855ce45b7be6d07999bfeb9b130/output/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/var/www/html/React-Projects/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_a7b667fe4c491bece40be86d9893366de6fc95f9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/66179f13acea77c9ecdfbb2296d2fbb6afd4c4ca/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_ccf33de836214b581eefcb68627e536a748b8219.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/d2a7a98aad9af9512e507f865a3e03f0e286f287/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_d50e1ef55f9f0c89358fc109dd65adccc44d3ffb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/f61f71644a4de1060a89d77effd8514ee962b9aa/output/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_7b5b983bfe3d5576904c826015d6750524b5d793.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jar="C:\Users\chros\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8cb1dcf68d89b3835f6b8620276bad0ce2e75a94.jar" />
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_92954691e4af76ca6cae87344eec29e9682daff2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/root/.android/build-cache/f61f71644a4de1060a89d77effd8514ee962b9aa/output/jars/classes.jar"
+        jar="C:\Users\chros\.android\build-cache\63f7dbea9e3986da7df7169db6f9fa25864f1284\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="852750162fda1e0c8985d903d070a0335cf73e4d">
-        <dex dex="/var/www/html/GameOfThrones/android/app/build/intermediates/pre-dexed/debug/classes_2504a38940f05136d6094f19e332238d5931b8d8.jar" />
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_6bbc2a4ec22694ea081f1440dd29425bc54eeff6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\0c7e9097bfe1c538bd0ecc3cd4e5a87a71e26e47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_8f1a43e580c82f1086f58e054b5e76ac31b980d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\9f27792932378208cc597f8663ec0c42481d28b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_c486d3112afd2aef5472e96ab925a69dab0cbb81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\bff7137f1dd236735d79beee71b6236dbb5775d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_fd465c686317b31943d2aae2d159cbc0e897f7d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\f6c4d486f9113ac84006df15ec6df37cb5b28266\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_af85e791ec9c076c1b455a13f2b75d2bb84d4a86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_c8af0b913687a037c6ebe7084927899e1130fb20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\da0616a15faf43b31281faccfc800ade390b92b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_aab98901f1b541a337d3436fa5102b3f5a130c8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\85c2e275d46d2333e872f95064cbe79ad31319a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_7bc836094de652dd632e244720606ae98a5d68d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\6e68840fd4c34ffe1b04e11d638dc47bf27ee571\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_fa50f97710c1d1a49dd44626a50df7f98651d411.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\287653fe1d1224e9040963e203994a0acb944c33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_9268e4141432b020c4b3777e5008bb3489d5ba96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\90c445599a38b4c5935dc49ec6a5d604a92f798c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_4586ff83a0ff6af0aa0b4b3f92da673ef98d6f0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_6e45a4cecb4d6b65cadcba088fe1e2ee6a5e02d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\de239a0b57174b19f00bb2daf7b51e16819e2629\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_b02116d1d68b4f4a879b2c33e42ab2058123e363.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\143d9add863bd5a7860fad0affba9e95683b5f0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_3a8c9c3fef630d4802591c1400b8c816bd684d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\f6c4d486f9113ac84006df15ec6df37cb5b28266\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_44dc8ff8509c3e108ecd0699f1c5f8b8b23d359f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_1f05db966fe62514349d28bd16fdaad72193d42f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_4a931beee45b9a1fdb328edbee36b78df5e4bc79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_a50c960f8e6be926a63404b2c1342207d1c0b5c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_d8f7dd1fae355f803d455ece72b4030221f30101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_f916bbb46b3cce9638cc36c12c3b96add7741ab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\c20668ae40ac9b2d493ea59246f7eb92fd4bdef0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_232b398d96c414feea1fd521f3fc3746da21b40c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_a4923ee98b0b82a1576195c226762c97c2cbd7e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\a7461e03a00c903b41c7886aeea50942fc46d26f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_154f10fd5bfc2a7f638a240260762d01a1e55a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\e7360dbef62783ce5da6bf84ed754b4de9668d03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_99921fa594c20e879033b35fcda45388a48ae049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\091c8b470c7d415b24cb4b0e91dc4eacce5c5d65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_68b47f71781e23f58c4c9e3c0502dfe63bd19602.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.android\build-cache\fa8c2426e297de97aa64c2cd0fbb41dcb78da4d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\classes_51372232a4a7c0a0eff5988066bf078ccdc82a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chros\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\chros\Desktop\ore\React-Projects\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_f1de9ca36417ecb33ab72a4ad72f5711879eb376.jar" />
     </item>
 
 </items>

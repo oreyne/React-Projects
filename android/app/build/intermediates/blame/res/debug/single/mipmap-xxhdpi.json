@@ -1,18 +1,10 @@
 [
     {
-        "merged": "/var/www/html/GameOfThrones/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
-        "source": "/var/www/html/GameOfThrones/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
-        "source": "/var/www/html/React-Projects/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/var/www/html/GameOfThrones/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
-        "source": "/var/www/html/GameOfThrones/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/var/www/html/React-Projects/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
-        "source": "/var/www/html/React-Projects/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/var/www/html/GameOfThrones/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+        "outputFile": "C:\\Users\\chros\\Desktop\\ore\\React-Projects\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 116
                 },
                 "from": {
-                    "file": "/root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/res/values-v16/values-v16.xml",
+                    "file": "C:\\Users\\chros\\.android\\build-cache\\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\\output\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -31,52 +31,7 @@
                     "endOffset": 289
                 },
                 "from": {
-                    "file": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/values-v16/values-v16.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 5,
-                        "endColumn": 12,
-                        "endOffset": 223
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/var/www/html/React-Projects/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 65,
-                    "endOffset": 116
-                },
-                "from": {
-                    "file": "/root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/res/values-v16/values-v16.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 65,
-                        "endOffset": 116
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 121,
-                    "endLine": 6,
-                    "endColumn": 12,
-                    "endOffset": 289
-                },
-                "from": {
-                    "file": "/root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/res/values-v16/values-v16.xml",
+                    "file": "C:\\Users\\chros\\.android\\build-cache\\a7461e03a00c903b41c7886aeea50942fc46d26f\\output\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

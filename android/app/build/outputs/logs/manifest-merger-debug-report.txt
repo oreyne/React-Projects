@@ -1,132 +1,132 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:1:1-27:12
+ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:1:1-27:12
 	package
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:2:5-32
-		INJECTED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml
-		INJECTED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:2:5-32
+		INJECTED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml
-		INJECTED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:1:11-69
 	android:versionCode
-		INJECTED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml
-		INJECTED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.56.1] /root/.android/build-cache/26b2ff5ae927a855ce45b7be6d07999bfeb9b130/output/AndroidManifest.xml:11:5-78
+ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\chros\.android\build-cache\f6c4d486f9113ac84006df15ec6df37cb5b28266\output\AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:5:22-75
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:5:22-75
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:6:5-78
+ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:6:5-78
 	android:name
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:8:5-25:19
-MERGED from [com.facebook.react:react-native:0.56.1] /root/.android/build-cache/26b2ff5ae927a855ce45b7be6d07999bfeb9b130/output/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:26.1.0] /root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /root/.android/build-cache/557652688d1d3345bf928d7df459f8b66aa359db/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /root/.android/build-cache/97651fd050b7065123acf166018e057ac8333ff8/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /root/.android/build-cache/e00ed6168bf8feb2be166abf4084d55585f975d1/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /root/.android/build-cache/d7f63fab472fe4a1acb6219348aafb4eb5f17c4e/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /root/.android/build-cache/66179f13acea77c9ecdfbb2296d2fbb6afd4c4ca/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /root/.android/build-cache/624753889a9c27ebdc56ae70d232c39336de9f5f/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /root/.android/build-cache/378e997026740d991294e5228c0524a46a40dd9f/output/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.android/build-cache/2a73082ff7e9e95e6b7a0cda0dc8d3570b2ef3f6/output/AndroidManifest.xml:24:5-28:19
-MERGED from [com.facebook.soloader:soloader:0.3.0] /root/.android/build-cache/f8452f690e589e1efee81cdc87be2bba8ea60fda/output/AndroidManifest.xml:11:5-20
-MERGED from [org.webkit:android-jsc:r174650] /root/.android/build-cache/c719fad6c46c463eaea0ee6c68d990ca9c1a0529/output/AndroidManifest.xml:2:3-17
+ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\chros\.android\build-cache\f6c4d486f9113ac84006df15ec6df37cb5b28266\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\chros\.android\build-cache\a7461e03a00c903b41c7886aeea50942fc46d26f\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chros\.android\build-cache\90c445599a38b4c5935dc49ec6a5d604a92f798c\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chros\.android\build-cache\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\chros\.android\build-cache\e7360dbef62783ce5da6bf84ed754b4de9668d03\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\chros\.android\build-cache\de239a0b57174b19f00bb2daf7b51e16819e2629\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\chros\.android\build-cache\9f27792932378208cc597f8663ec0c42481d28b6\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\chros\.android\build-cache\85c2e275d46d2333e872f95064cbe79ad31319a9\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\chros\.android\build-cache\da0616a15faf43b31281faccfc800ade390b92b9\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\chros\.android\build-cache\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\chros\.android\build-cache\bff7137f1dd236735d79beee71b6236dbb5775d9\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\chros\.android\build-cache\091c8b470c7d415b24cb4b0e91dc4eacce5c5d65\output\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\chros\.android\build-cache\76641774705af3e98f619a37c2538b47a2a00039\output\AndroidManifest.xml:2:3-17
 	android:label
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:10:7-39
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:10:7-39
 	android:allowBackup
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:12:7-34
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:12:7-34
 	android:icon
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:11:7-41
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:11:7-41
 	android:theme
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:13:7-38
 	android:name
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:9:7-38
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:9:7-38
 activity#com.gameofthrones.MainActivity
-ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:14:7-23:18
+ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:14:7-23:18
 	android:label
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:16:9-41
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:16:9-41
 	android:windowSoftInputMode
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:18:9-51
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:18:9-51
 	android:configChanges
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:17:9-79
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:17:9-79
 	android:name
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:15:9-37
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:15:9-37
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:19:9-22:25
+ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:19:9-22:25
 action#android.intent.action.MAIN
-ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:20:13-65
+ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:20:13-65
 	android:name
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:20:21-62
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:20:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:21:13-73
+ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:21:13-73
 	android:name
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:21:23-70
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:21:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:24:7-84
+ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:24:7-84
 	android:name
-		ADDED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:24:17-81
+		ADDED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:24:17-81
 uses-sdk
-INJECTED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.facebook.react:react-native:0.56.1] /root/.android/build-cache/26b2ff5ae927a855ce45b7be6d07999bfeb9b130/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:26.1.0] /root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.1.0] /root/.android/build-cache/557652688d1d3345bf928d7df459f8b66aa359db/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] /root/.android/build-cache/97651fd050b7065123acf166018e057ac8333ff8/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] /root/.android/build-cache/e00ed6168bf8feb2be166abf4084d55585f975d1/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /root/.android/build-cache/d7f63fab472fe4a1acb6219348aafb4eb5f17c4e/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /root/.android/build-cache/66179f13acea77c9ecdfbb2296d2fbb6afd4c4ca/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /root/.android/build-cache/624753889a9c27ebdc56ae70d232c39336de9f5f/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.1.0] /root/.android/build-cache/378e997026740d991294e5228c0524a46a40dd9f/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.android/build-cache/2a73082ff7e9e95e6b7a0cda0dc8d3570b2ef3f6/output/AndroidManifest.xml:20:5-22:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /root/.android/build-cache/c23074f9cc87eb05e799d4b9b8dc5552cec58e61/output/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.9.0] /root/.android/build-cache/bfbd68393a852816492c7d0c6905e78d1b54b31d/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.9.0] /root/.android/build-cache/365e82bdf05b3c30bf43030128d806f5c3a7ddd2/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /root/.android/build-cache/79cd5993f45457979dca707fa34cf97a28a62a58/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /root/.android/build-cache/00925d4f1fbd0c71ab4eb586553e8d8efeb52a53/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /root/.android/build-cache/735e0c89ea420c66826c0de46cd5e2d299052e40/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.9.0] /root/.android/build-cache/d2a7a98aad9af9512e507f865a3e03f0e286f287/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.3.0] /root/.android/build-cache/f8452f690e589e1efee81cdc87be2bba8ea60fda/output/AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\chros\.android\build-cache\f6c4d486f9113ac84006df15ec6df37cb5b28266\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\chros\.android\build-cache\a7461e03a00c903b41c7886aeea50942fc46d26f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chros\.android\build-cache\90c445599a38b4c5935dc49ec6a5d604a92f798c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chros\.android\build-cache\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\chros\.android\build-cache\e7360dbef62783ce5da6bf84ed754b4de9668d03\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\chros\.android\build-cache\de239a0b57174b19f00bb2daf7b51e16819e2629\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\chros\.android\build-cache\9f27792932378208cc597f8663ec0c42481d28b6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\chros\.android\build-cache\85c2e275d46d2333e872f95064cbe79ad31319a9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\chros\.android\build-cache\da0616a15faf43b31281faccfc800ade390b92b9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\chros\.android\build-cache\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\chros\.android\build-cache\bff7137f1dd236735d79beee71b6236dbb5775d9\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\chros\.android\build-cache\0c7e9097bfe1c538bd0ecc3cd4e5a87a71e26e47\output\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\chros\.android\build-cache\63f7dbea9e3986da7df7169db6f9fa25864f1284\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\chros\.android\build-cache\143d9add863bd5a7860fad0affba9e95683b5f0c\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\chros\.android\build-cache\fa8c2426e297de97aa64c2cd0fbb41dcb78da4d7\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\chros\.android\build-cache\287653fe1d1224e9040963e203994a0acb944c33\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\chros\.android\build-cache\c20668ae40ac9b2d493ea59246f7eb92fd4bdef0\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\chros\.android\build-cache\6e68840fd4c34ffe1b04e11d638dc47bf27ee571\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\chros\.android\build-cache\091c8b470c7d415b24cb4b0e91dc4eacce5c5d65\output\AndroidManifest.xml:2:3-70
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\chros\.android\build-cache\a7461e03a00c903b41c7886aeea50942fc46d26f\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml
-		INJECTED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml
-		INJECTED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] /root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /root/.android/build-cache/557652688d1d3345bf928d7df459f8b66aa359db/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /root/.android/build-cache/97651fd050b7065123acf166018e057ac8333ff8/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /root/.android/build-cache/e00ed6168bf8feb2be166abf4084d55585f975d1/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /root/.android/build-cache/d7f63fab472fe4a1acb6219348aafb4eb5f17c4e/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /root/.android/build-cache/66179f13acea77c9ecdfbb2296d2fbb6afd4c4ca/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /root/.android/build-cache/624753889a9c27ebdc56ae70d232c39336de9f5f/output/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /root/.android/build-cache/378e997026740d991294e5228c0524a46a40dd9f/output/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /root/.android/build-cache/e565bfe0d9f9676342d2f08ac0622cfcd4b126a0/output/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\chros\.android\build-cache\a7461e03a00c903b41c7886aeea50942fc46d26f\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\chros\.android\build-cache\90c445599a38b4c5935dc49ec6a5d604a92f798c\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\chros\.android\build-cache\4d61e8b2d3ce9f6c31e9f178c9736258b5a517ed\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\chros\.android\build-cache\e7360dbef62783ce5da6bf84ed754b4de9668d03\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\chros\.android\build-cache\de239a0b57174b19f00bb2daf7b51e16819e2629\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\chros\.android\build-cache\9f27792932378208cc597f8663ec0c42481d28b6\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\chros\.android\build-cache\85c2e275d46d2333e872f95064cbe79ad31319a9\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\chros\.android\build-cache\da0616a15faf43b31281faccfc800ade390b92b9\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\chros\.android\build-cache\ab1ee5d12fa2c587bdbcd59bcbbc64e981395d90\output\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\chros\.android\build-cache\a7461e03a00c903b41c7886aeea50942fc46d26f\output\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /root/.android/build-cache/d6dcc2ade1baee1d6cb403b595a15cb16680590d/output/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\chros\.android\build-cache\a7461e03a00c903b41c7886aeea50942fc46d26f\output\AndroidManifest.xml:27:13-51
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /root/.android/build-cache/2a73082ff7e9e95e6b7a0cda0dc8d3570b2ef3f6/output/AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\chros\.android\build-cache\bff7137f1dd236735d79beee71b6236dbb5775d9\output\AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /root/.android/build-cache/2a73082ff7e9e95e6b7a0cda0dc8d3570b2ef3f6/output/AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\chros\.android\build-cache\bff7137f1dd236735d79beee71b6236dbb5775d9\output\AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /root/.android/build-cache/2a73082ff7e9e95e6b7a0cda0dc8d3570b2ef3f6/output/AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\chros\.android\build-cache\bff7137f1dd236735d79beee71b6236dbb5775d9\output\AndroidManifest.xml:26:13-58
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /var/www/html/React-Projects/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\chros\Desktop\ore\React-Projects\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
